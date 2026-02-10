@@ -66,7 +66,7 @@ const QUOTES = [
       
       {/* Header */}
       <div className="pt-6 pb-4 text-center">
-        <img src={Logo} className="w-16 h-16 mx-auto mb-2" />
+        <img src={Logo} className="w-16 h-16 mx-auto mb-2" alt="Logo" />
         <h1 className="text-2xl font-bold">Quote Wheel</h1>
         <p className="text-sm opacity-80">Spin • Inspire • Smile</p>
       </div>
